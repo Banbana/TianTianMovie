@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		483D13231C11756E00CB5496 /* 天天影视.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "天天影视.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		483D13231C11756E00CB5496 /* \\.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "\\\\.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		483D13271C11756E00CB5496 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		483D13291C11756E00CB5496 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		483D132A1C11756E00CB5496 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 		483D13241C11756E00CB5496 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				483D13231C11756E00CB5496 /* 天天影视.app */,
+				483D13231C11756E00CB5496 /* \\.app */,
 				483D133C1C11756E00CB5496 /* 天天影视Tests.xctest */,
 				483D13471C11756E00CB5496 /* 天天影视UITests.xctest */,
 			);
@@ -143,9 +143,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		483D13221C11756E00CB5496 /* 天天影视 */ = {
+		483D13221C11756E00CB5496 /* \\ */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 483D13501C11756E00CB5496 /* Build configuration list for PBXNativeTarget "天天影视" */;
+			buildConfigurationList = 483D13501C11756E00CB5496 /* Build configuration list for PBXNativeTarget "\\" */;
 			buildPhases = (
 				483D131F1C11756E00CB5496 /* Sources */,
 				483D13201C11756E00CB5496 /* Frameworks */,
@@ -155,9 +155,9 @@
 			);
 			dependencies = (
 			);
-			name = "天天影视";
+			name = "\\\\";
 			productName = "天天影视";
-			productReference = 483D13231C11756E00CB5496 /* 天天影视.app */;
+			productReference = 483D13231C11756E00CB5496 /* \\.app */;
 			productType = "com.apple.product-type.application";
 		};
 		483D133B1C11756E00CB5496 /* 天天影视Tests */ = {
@@ -234,7 +234,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				483D13221C11756E00CB5496 /* 天天影视 */,
+				483D13221C11756E00CB5496 /* \\ */,
 				483D133B1C11756E00CB5496 /* 天天影视Tests */,
 				483D13461C11756E00CB5496 /* 天天影视UITests */,
 			);
@@ -300,12 +300,12 @@
 /* Begin PBXTargetDependency section */
 		483D133E1C11756E00CB5496 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 483D13221C11756E00CB5496 /* 天天影视 */;
+			target = 483D13221C11756E00CB5496 /* \\ */;
 			targetProxy = 483D133D1C11756E00CB5496 /* PBXContainerItemProxy */;
 		};
 		483D13491C11756E00CB5496 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 483D13221C11756E00CB5496 /* 天天影视 */;
+			target = 483D13221C11756E00CB5496 /* \\ */;
 			targetProxy = 483D13481C11756E00CB5496 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -492,7 +492,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		483D13501C11756E00CB5496 /* Build configuration list for PBXNativeTarget "天天影视" */ = {
+		483D13501C11756E00CB5496 /* Build configuration list for PBXNativeTarget "\\" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				483D13511C11756E00CB5496 /* Debug */,
